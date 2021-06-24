@@ -1,0 +1,7 @@
+1 R:
+git add -A organiza todas as mudanças
+
+git add. organiza novos arquivos e modificações, sem exclusões (no diretório atual e seus subdiretórios). 
+
+2R:
+git revert
